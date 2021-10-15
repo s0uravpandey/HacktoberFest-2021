@@ -16,12 +16,12 @@ class act1
         
         int min = marks[0];
         
-        //For max marks
+        //For Maximum marks
         for(int j : marks)
         if(marks[j]>max)
         max = marks[i];
         
-        //For min marks
+        //For Minimum marks
         for(int j : marks)
         if(marks[j]<min)
         min = marks[i];

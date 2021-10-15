@@ -21,7 +21,7 @@ class C
                 System.out.println();
             }
         }        
-        System.out.println("\nThe Original Matrix is :");
+        System.out.println("\nThe Original Matrix is:");
         for(int i=0;i<s;i++)
         {
             for(int j=0;j<s;j++)
